@@ -1,46 +1,112 @@
 {
-  "posts": [
+  "BookWorm": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "cost": 28
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cost": 15
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "cost": 21
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "cost": 11
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Martian",
+      "author": "Andy Weir",
+      "cost": 19
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "Animal Farm",
+      "author": "George Orwell",
+      "cost": 12
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Book Thief",
+      "author": "Markus Zusak",
+      "cost": 16
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "cost": 18
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "cost": 23
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "cost": 14
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "Little Women",
+      "author": "Louisa May Alcott",
+      "cost": 17
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "cost": 10
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "cost": 20
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "Invisible Man",
+      "author": "Ralph Ellison",
+      "cost": 22
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "cost": 15
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "Frankenstein",
+      "author": "Mary Shelley",
+      "cost": 13
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "cost": 18
+    },
+    {
+      "bookStore": "BookWorm Book Store",
+      "bookName": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "cost": 11
     }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "johndoe@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "janesmith@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Robert Brown",
-      "email": "robertbrown@example.com"
-    },
-    {
-      "id": 4,
-      "name": "Emily Davis",
-      "email": "emilydavis@example.com"
-    },
-    {
-      "id": 5,
-      "name": "Michael Wilson",
-      "email": "michaelwilson@example.com"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
